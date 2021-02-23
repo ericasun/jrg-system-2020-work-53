@@ -5,5 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "jquery": "^3.5.1"
-  }
+  },
+  "repository": "git@github.com:ericasun/jrg-system-2020-work-53.git",
+  "author": "bde_100008627096_erica <bde_100008627096_erica@git.cloud.tencent.com>"
 }
